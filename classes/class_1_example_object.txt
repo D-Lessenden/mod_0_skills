@@ -1,0 +1,15 @@
+olive_garden
+
+
+
+Attributes
+1 entree_price: 9.99
+2 soft_drink ["Pepsi", "Mt. Dew", "Coke"]
+3 main_dish ["Spaghetti", "Chicken Alfredo", "Minestrone"]
+4 appetizer ["bread sticks", "salad"]
+
+Methods
+1 raise_price: adds 3.00 to 9.99 = 12.99
+2 add_soda: soft_drink >> "Dr. Pepper"
+3 remove_dish: deletes "Minestrone" from main_dish
+4 add_app: appetizer >> "Minestrone"
