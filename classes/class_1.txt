@@ -1,0 +1,13 @@
+class Menu
+
+Attributes
+1 entree_price (float)
+2 soft_drink (Array)
+3 main_dish (Array)
+4 appetizer (Array)
+
+Methods
+1 raise_price(adds X to entree_price)
+2 add_soda (adds a new soda to the soft_drinks array)
+3 remove_dish (deletes a meal from main_dish)
+4 add_app (adds an appetizer to the appetizer array)
