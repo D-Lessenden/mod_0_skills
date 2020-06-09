@@ -1,0 +1,13 @@
+class Schedule
+
+Attributes
+1 waiters (Array)
+2 kitchen_staff (Array)
+3 overtime (string)
+4 time_off (string)
+
+Methods
+1 hire_waiters (adds 1 to waiters array)
+2 fire_kitchen_staff (subtracts 1 from kitchen_staff array)
+3 request_overtime (allows employees to request ocertime)
+4 request_time_off (allows employees to request time off)
