@@ -1,0 +1,13 @@
+olive_garden
+
+Attributes
+1 waiters ["Alex", "Ben", "Carly"]
+2 kitchen_staff ["David", "Erin", "Frank"]
+3 overtime "Overtime is by request only"
+4 time_off "Must request time off in advanced"
+
+Methods
+1 hire_waiters: waiters >> "Rachel"
+2 fire_kitchen_staff: removes "Frank" from kitchen_staff array
+3 request_overtime: "#{waiters[0]} would like overtime next week."
+4 request_time_off: "#{kitchen_staff[1] would like time off on the 7th.}"
